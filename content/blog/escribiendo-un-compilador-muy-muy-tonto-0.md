@@ -1,5 +1,5 @@
 +++
-title = "Escribiendo_un_compilador_muy_muy_tonto_0"
+title = "Escribiendo un compilador muy muy tonto 0: Introducción"
 date = "2021-10-17T20:18:52-03:00"
 
 #
@@ -9,8 +9,6 @@ date = "2021-10-17T20:18:52-03:00"
 
 tags = ["compilador","rust","vvdc"]
 +++
-
-# Escribiendo un compilador muy muy tonto (0): Introducción
 *Esta es la primer parte introductoria de varios blog posts donde documento el proceso de desarrollo de un compilador muy muy tonto.*
 ## Introducción
 Desde chico siempre me fascinó saber cómo funcionaban las cosas relacionadas con las computadoras, especialmente del software. Es por esto que aprendí a programar, para saber cómo funcionaba y poder crear mis propios juegos o aplicaciones.

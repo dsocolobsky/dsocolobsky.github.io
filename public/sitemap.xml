@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://dsocolobsky.github.io/</loc>
+    <lastmod>2021-10-17T20:18:52-03:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://dsocolobsky.github.io/blog/</loc>
+    <lastmod>2021-10-17T20:18:52-03:00</lastmod>
+  </url><url>
+    <loc>https://dsocolobsky.github.io/blog/compilador/</loc>
+    <lastmod>2021-10-17T20:18:52-03:00</lastmod>
+  </url><url>
+    <loc>https://dsocolobsky.github.io/escribiendo_un_compilador_muy_muy_tonto_0/</loc>
+    <lastmod>2021-10-17T20:18:52-03:00</lastmod>
+  </url><url>
+    <loc>https://dsocolobsky.github.io/blog/rust/</loc>
+    <lastmod>2021-10-17T20:18:52-03:00</lastmod>
+  </url><url>
+    <loc>https://dsocolobsky.github.io/blog/vvdc/</loc>
+    <lastmod>2021-10-17T20:18:52-03:00</lastmod>
+  </url><url>
+    <loc>https://dsocolobsky.github.io/blog/markdown/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dsocolobsky.github.io/markdown-syntax-guide/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dsocolobsky.github.io/blog/syntax/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dsocolobsky.github.io/bear/</loc>
+  </url><url>
+    <loc>https://dsocolobsky.github.io/hugo/</loc>
+  </url>
+</urlset>
